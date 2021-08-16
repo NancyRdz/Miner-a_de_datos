@@ -1,4 +1,4 @@
-# Miner-a_de_datos
+#  Mineria de datos
 
 ## •Fase 1
 
