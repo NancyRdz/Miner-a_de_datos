@@ -8,4 +8,4 @@
 
 ○[Ejercicios de Phyton](Ej_Phyton_1845816.ipynb)
 
-°[Limpieza de datos](https://github.com/xthaliax/mineriaa/blob/main/Avance1_PIA_Equipo3.ipynb)
+°[Primer avance: PIA](https://github.com/xthaliax/mineriaa/blob/main/Avance1_PIA_Equipo3.ipynb)
