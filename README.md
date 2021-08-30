@@ -7,3 +7,5 @@
 ○[Ejercicio base de datos Equipo 3](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/EjercicioBD_Equipo3.pdf)
 
 ○[Ejercicios de Phyton](Ej_Phyton_1845816.ipynb)
+
+°[Limpieza de datos](https://github.com/xthaliax/mineriaa/blob/main/Avance1_PIA_Equipo3.ipynb)
