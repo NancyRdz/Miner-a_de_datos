@@ -8,6 +8,8 @@
 
 ○[Ejercicios de Phyton](Ej_Phyton_1845816.ipynb)
 
-°[Primer avance: PIA](https://github.com/xthaliax/mineriaa/blob/main/Avance1_PIA_Equipo3.ipynb)
+○[Primer avance: PIA](https://github.com/xthaliax/mineriaa/blob/main/Avance1_PIA_Equipo3.ipynb)
 
-°[Presentación: Reglas de asociación](https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Presentaci%C3%B3n_ReglasDeAsociaci%C3%B3n_Equipo3.pdf)
+## •Fase 2
+
+○[Presentación: Reglas de asociación](https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Presentaci%C3%B3n_ReglasDeAsociaci%C3%B3n_Equipo3.pdf)
