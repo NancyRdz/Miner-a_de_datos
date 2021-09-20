@@ -4,9 +4,11 @@
 
 ○[Mapa mental](https://github.com/NancyRdz/Miner-a_de_datos/blob/main/MapaMental_1_1845816.pdf)
 
-○[Ejercicio base de datos Equipo 3](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/EjercicioBD_Equipo3.pdf)
+○[Bases de datos](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/EjercicioBD_Equipo3.pdf)
 
 ○[Ejercicios de Phyton](Ej_Phyton_1845816.ipynb)
+
+○[Limpieza de datos](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo3.ipynb)
 
 ○[Primer avance: PIA](https://github.com/xthaliax/mineriaa/blob/main/Avance1_PIA_Equipo3.ipynb)
 
