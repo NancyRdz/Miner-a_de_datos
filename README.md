@@ -19,3 +19,7 @@
 ○[Práctica de visualización](https://github.com/xthaliax/mineriaa/blob/main/Visualizacion_Equipo3.ipynb)
 
 ○[Segundo avance: PIA](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3.ipynb)
+
+○[Segundo avance: PIA Modificado](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3_Mod.ipynb)
+
+○[Técnicas de minera: Equipo 3](https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Equipo3_T%C3%A9cnicas.ipynb)
