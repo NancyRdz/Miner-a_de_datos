@@ -23,3 +23,9 @@
 ○[Segundo avance: PIA Modificado](https://github.com/claudiogaytan28/MineriaDeDatos/blob/main/Entrega2_Equipo3_Mod.ipynb)
 
 ○[Técnicas de minera: Equipo 3](https://github.com/Ruy8/RuyAramis_Mineria/blob/main/Equipo3_T%C3%A9cnicas.ipynb)
+
+## •Fase 3
+
+○[Notebook final](https://github.com/xthaliax/mineriaa/blob/main/Notebook%20-%20equipo%203.ipynb)
+
+○[Póster](https://github.com/xthaliax/mineriaa/blob/main/P%C3%B3ster%20-%20Equipo%203.pdf)
